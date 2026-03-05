@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version,fusion
+3,iPhone 12 Pro,1772616587953,2026-03-04_09-29-47,Africa/Accra,ios,1.54,86a4a112-c7a4-4138-89b3-b194810fe8c1,Accelerometer|Gyroscope|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10||10|10,false,26.3,system
