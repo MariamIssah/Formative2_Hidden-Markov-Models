@@ -9,6 +9,12 @@ This repository contains a Hidden Markov Model (HMM) pipeline for smartphone-bas
 
 The implementation is provided in the notebook `HMM_Activity_Recognition.ipynb` and includes data loading, feature extraction, feature normalization, HMM training with Baum-Welch, decoding with Viterbi, evaluation on unseen test data, and result visualizations.
 
+## Collaboration Approach
+
+This assignment was developed collaboratively by both team members over multiple working meetings. During the coding phase, the team used a single shared notebook, `HMM_Activity_Recognition.ipynb`, as the main development workspace for discussion, implementation, review, and refinement of the pipeline.
+
+Using one notebook does not mean the work was completed by one person. It reflects the team's collaborative workflow, where ideas, code changes, debugging, feature selection, model design, evaluation decisions, and documentation updates were discussed and improved together during the assignment process.
+
 ## Repository Contents
 
 - `HMM_Activity_Recognition.ipynb`: Main notebook for preprocessing, model training, evaluation, and visualization.
